@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Compose - Stock Market</string>
+    <string name="detail">Compose - Stock Detail</string>
+
+    <string name="error_unexpected">Unexpected error!</string>
+    <string name="error_invalid_data">Invalid data!\nStock information was not recovered correctly.</string>
+
+    <string name="error">Error</string>
+    <string name="loading">Loading data…</string>
+    <string name="total">Total Stocks: %s</string>
+    <string name="filter">Filter stock by name or symbol</string>
+
+    <string name="country">Country:</string>
+    <string name="industry">Industry:</string>
+    <string name="description">Description:</string>
+
+    <string name="bt_retry">Retry</string>
+    <string name="bt_cancel">Cancel</string>
+
+</resources>
